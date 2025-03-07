@@ -65,7 +65,7 @@ pip install -r requirements.txt
 3. Run the notebooks (`vaeGan.ipynb` and `simpleGan.ipynb`) cell by cell to train and generate 3D objects.
 
 ---
-![image1]() 
+
 ## 🖼️ Sample Results
 
 Below are examples of 3D objects generated through these GAN techniques:
